@@ -6,13 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="11556049-1ed6-4dfd-8f6a-f9dcc54f9da4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/calculadoraBasica/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/calculadoraBasica/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/calculadoraBasica/calculadoraBasica/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/calculadoraBasica/calculadoraBasica/utils/AsciiDecorator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/calculadoraBasica/calculadoraBasica/utils/Operacoes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/calculadoraBasica/calculadoraBasica/utils/Utils.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src" beforeDir="false" afterPath="$PROJECT_DIR$/src" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/calculadoraBasica.iml" beforeDir="false" />
