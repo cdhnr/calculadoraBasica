@@ -37,7 +37,7 @@ Para rodar o projeto, você precisa apenas de um **JDK (Java Development Kit)** 
 
 1.  Clone este repositório para o seu ambiente local:
     ```bash
-    git clone [https://github.com/cdhnr/calculadoraBasica]
+    git clone https://github.com/cdhnr/calculadoraBasica
     ```
 2.  Navegue até o diretório do projeto:
     ```bash
@@ -77,4 +77,5 @@ O código evoluiu significativamente, passando de uma estrutura monolítica para
 * **Tratamento de Exceções:** Implementar um tratamento de exceções mais robusto para lidar com entradas de usuário inválidas (e.g., texto em vez de números).
 * **Adição de Novas Operações:** Expandir a classe `Operacoes` para incluir mais funcionalidades, como potência, raiz quadrada, etc.
 * **Testes Automatizados:** Escrever testes de unidade para garantir que as operações matemáticas funcionem como esperado, evitando regressões futuras.
+
 * **Interface Gráfica (GUI):** Aprimorar a interface de usuário, migrando de uma aplicação de linha de comando para uma interface gráfica.
