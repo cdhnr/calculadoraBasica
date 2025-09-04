@@ -21,5 +21,5 @@
 </p>
 
 <p align="center">
-  <img src="" alt="calculadoraBasica em ação" width="800"/>
+  <img src="https://github.com/user-attachments/assets/92016f67-ad71-473e-b7c8-d3df5eb7ace3" alt="calculadoraBasica em ação" width="700"/>
 </p>
