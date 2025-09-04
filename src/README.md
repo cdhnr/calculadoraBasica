@@ -1,4 +1,4 @@
-## 🔄 Fluxo do Script
+## Fluxo do Script
 
 1. **Entrada**
     - Usuário escolhe a operação desejada.
