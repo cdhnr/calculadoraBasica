@@ -1,3 +1,9 @@
+# Calculadora básica
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Status](https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
+
 ## Descrição
 
 Este projeto é uma **calculadora de linha de comando** simples, desenvolvida em Java. Ele foi criado como um exercício para demonstrar a evolução de um código, aplicando conceitos de **modularização**, **melhores práticas de programação** e **organização de projeto**.
@@ -18,6 +24,7 @@ README.md
 │   ├── Operacoes.java
 │   └── Utils.java
 └── Main.java
+└── README.md
 ```
 
 * `src/`: Contém todo o código-fonte da aplicação.
@@ -79,3 +86,4 @@ O código evoluiu significativamente, passando de uma estrutura monolítica para
 * **Testes Automatizados:** Escrever testes de unidade para garantir que as operações matemáticas funcionem como esperado, evitando regressões futuras.
 
 * **Interface Gráfica (GUI):** Aprimorar a interface de usuário, migrando de uma aplicação de linha de comando para uma interface gráfica.
+
